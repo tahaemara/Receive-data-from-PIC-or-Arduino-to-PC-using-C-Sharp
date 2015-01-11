@@ -1,0 +1,18 @@
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.Form1.resources
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.Properties.Resources.resources
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.csproj.GenerateResource.Cache
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\bin\Debug\Serial_receive.exe
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\bin\Debug\Serial_receive.pdb
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.exe
+C:\Users\Emara\Documents\Visual Studio 2008\Projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.pdb
+D:\Computer\my programming projects\Serial_receive 1\Serial_receive\obj\Debug\Serial_receive.exe
+D:\Computer\my programming projects\Serial_receive 1\Serial_receive\obj\Debug\Serial_receive.pdb
+D:\Computer\my programming projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.exe
+D:\Computer\my programming projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.pdb
+D:\Computer\my programming projects\Serial_receive\Serial_receive\bin\Debug\Serial_receive.exe
+D:\Computer\my programming projects\Serial_receive\Serial_receive\bin\Debug\Serial_receive.pdb
+D:\Computer\my programming projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.csprojResolveAssemblyReference.cache
+D:\Computer\my programming projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.Form1.resources
+D:\Computer\my programming projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.Properties.Resources.resources
+D:\Computer\my programming projects\Serial_receive\Serial_receive\obj\Debug\Serial_receive.csproj.GenerateResource.Cache
